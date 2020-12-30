@@ -1,0 +1,11 @@
+
+RewriteOptions inherit
+RewriteEngine on
+RewriteRule ^(index|domain-checker|business_package|contact|domain)$ $1.php [NC,L]
+
+
+RewriteCond %{HTTP_HOST} ^www\.
+RewriteRule ^(.*)$ https://mizbannet.com/$1 [R=301,L]
+
+ErrorDocument 404 /404.php
+

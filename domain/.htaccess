@@ -1,0 +1,3 @@
+RewriteOptions inherit
+RewriteEngine on
+RewriteRule ^(domain_register|ir_domain)$ $1.php [NC,L]
