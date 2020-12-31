@@ -1,13 +1,13 @@
 <?php include "header.php"; ?>
-<title>  خرید هاست ارزان با بالاترین کیفیت و آپتایم بالا ‐ میزبان نت</title>
-<meta name="description" content="اگر به دنیال خرید هاست ارزان و قدرتمند هستید میزبان نت بهترین انتخاب شما خواهد بود. خرید بهترین هاست لینوکس و وردپرس ارزان با SSL رایگان و پشتیبانی 24 ساعته">
+<title>خرید هاست ارزان با بالاترین کیفیت و آپتایم بالا ‐ میزبان نت</title>
+<meta name="description" content="اگر به دنبال خرید هاست ارزان و قدرتمند هستید میزبان نت بهترین انتخاب شما خواهد بود. خرید بهترین و به صرفه ترین هاست لینوکس و وردپرس با SSL رایگان و پشتیبانی 24 ساعته">
 <link rel="canonical" href="https://mizbannet.com/hosting">
 
 <meta property="og:local" content="fa_IR">
-<meta property="og:title" content="خرید هاست ارزان ‐ میزبان نت" />
+<meta property="og:title" content="خرید هاست ارزان با بالاترین کیفیت و آپتایم بالا ‐ میزبان نت" />
 <meta property="og:url" content="https://mizbannet.com/hosting" />
 <meta property="og:type" content="company" />
-<meta property="og:description" content="اگر به دنیال خرید هاست ارزان و قدرتمند هستید میزبان نت بهترین انتخاب شما خواهد بود. خرید بهترین هاست لینوکس و وردپرس ارزان با SSL رایگان و پشتیبانی 24 ساعته" />
+<meta property="og:description" content="اگر به دنبال خرید هاست ارزان و قدرتمند هستید میزبان نت بهترین انتخاب شما خواهد بود. خرید بهترین و به صرفه ترین هاست لینوکس و وردپرس با SSL رایگان و پشتیبانی 24 ساعته" />
 <meta property="og:site_name" content="میزبان نت | Mizbannet">
 <meta property="og:image" content="https://mizbannet.com/vendors/images/hosting-og-image.jpg" />
 <script type="application/ld+json">
@@ -50,7 +50,7 @@
                     <p>شروع قیمت از</p>
                     <p class="plans__box--price"><strong> ۱۹,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <div class="plans__box--features">
-                        <p class="plans__box--feature"><i class="fas fa-hdd"></i> هاردهای پرقدرت SAS</p>
+                        <p class="plans__box--feature"><i class="fas fa-hdd"></i> هاردهای پرقدرت RAID-10</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> SSL رایگان</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> کنترل پنل cPanel</p>
                         <p class="plans__box--feature u-margin-bottom-large"><i class="fas fa-gift"></i> دامنه رایگان در خرید سالانه </p>
@@ -64,7 +64,7 @@
                     <p>شروع قیمت از</p>
                     <p class="plans__box--price"><strong> ۳۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <div class="plans__box--features">
-                        <p class="plans__box--feature"><i class="fas fa-hdd"></i> هاردهای پرقدرت SSD</p>
+                        <p class="plans__box--feature"><i class="fas fa-hdd"></i>  هاردهای پرقدرت RAID-10</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> SSL رایگان</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> کنترل پنل cPanel</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> پهنای باند نامحدود</p>
@@ -79,7 +79,7 @@
                     <p>شروع قیمت از</p>
                     <p class="plans__box--price"><strong> ۳۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <div class="plans__box--features">
-                        <p class="plans__box--feature"><i class="fas fa-hdd"></i> هاردهای پرقدرت SSD</p>
+                        <p class="plans__box--feature"><i class="fas fa-hdd"></i>  هاردهای پرقدرت RAID-10</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> SSL رایگان</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> کنترل پنل cPanel</p>
                         <p class="plans__box--feature"><i class="fas fa-hdd"></i> پهنای باند نامحدود</p>
@@ -95,7 +95,7 @@
                  <div class="content">
                     <h3 class="heading-secondary u-margin-bottom-medium">هاست لینوکس</h3>
                     <p class="u-margin-bottom-small content__text">
-                    <a href="./linux_hosting.php">هاست های لینوکس با کنترل پنل cPanel</a> و SSL رایگان بهترین انتخاب برای شروع یک سایت اینترنتی می باشد. این سرویس های ارزان صرف نظر از قیمت مقرون به صرفه ای که دارند، دارای قدرت، سرعت، و امنیت بالایی می باشند و به صورت منظم از دیتاهای آن روی یک سرور ریموت بک آپ گیری انجام می شود.
+                    <a href="./linux_hosting.php">هاست های لینوکس با کنترل پنل cPanel</a> و SSL رایگان بهترین انتخاب برای شروع یک سایت اینترنتی می باشد. این سرویس های ارزان صرف نظر از قیمت مقرون به صرفه ای که دارند، دارای قدرت، سرعت، و امنیت بالایی می باشند و به صورت منظم از دیتاهای آن روی یک سرور ریموت، بک آپ گیری انجام می شود.
                     </p>
                    
                 </div><!-- content-->
@@ -196,7 +196,7 @@
                             <img src="../vendors/images/icon/24-7-support.webp" alt="پشتیبانی 24 ساعته در خرید هاست و ثبت دامنه" class="box__img">
                         </div>
                         <div class="box__bottom">
-                            <h3>پشتیبانی 24/7</h3>
+                            <h3>SSL رایگان</h3>
                         </div>
                     </div>
                     <div class="box">
@@ -208,31 +208,25 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </section> <!--End of Section features-->
-
-
-        <section class="features u-text-align-center u-bg-grey" id="features">
-            <h2 class="heading-secondary">امکانات میزبان نت</h2>
-            <p class="features__text u-margin-bottom-medium">بهترین هاستینگ ایران برای وب سایت بعدی شما</p>
-            
-            <div class="row">
-                <div class="features__item">
-                    <img src="../vendors/images/icon/24-hour-support.webp" alt="پشتیبانی 24 ساعته در خرید هاست و دامنه" class="features__img">
-                    <h3 class="heading-tertiary">پشتیبانی ۲۴ ساعته خرید هاست</h3>
-                    <p class="features__text">در همه لحظات همراه و پشتیبان شما هستیم. پشتیبانی ۲۴ ساعته در تمام روزهای هفته</p>
+                
+                <div class="row">
+                    <div class="features__item">
+                        <img src="../vendors/images/icon/24-hour-support.webp" alt="پشتیبانی 24 ساعته در خرید هاست و دامنه" class="features__img">
+                        <h3 class="heading-tertiary">پشتیبانی ۲۴ ساعته خرید هاست</h3>
+                        <p class="features__text">در همه لحظات همراه و پشتیبان شما هستیم. پشتیبانی ۲۴ ساعته در تمام روزهای هفته</p>
+                    </div>
+                    <div class="features__item u-bg-white">
+                        <img src="../vendors/images/icon/SSD-hard.webp" alt="استفاده از هاردهای پر سرعت SSD در خرید هاست و سرور از میزبان نت" class="features__img">
+                        <h3 class="heading-tertiary">استفاده از منابع سخت افزاری قدرتمند</h3>
+                        <p class="features__text">پردازنده های قدرتمند چند هسته ای (۸ تا ۱۶ هسته)، حافظه رم بالای ۱۶ گیگ، دیسک های RAID-10</p>
+                    </div>
+                    <div class="features__item">
+                        <img src="../vendors/images/icon/easy-website-install.webp" alt="خرید ویژه هاست و دامنه ارزان از میزبان نت" class="features__img">
+                        <h3 class="heading-tertiary"> خرید ویژه هاست و ثبت دامنه میزبان نت</h3>
+                        <p class="features__text">امکانات ویژه خرید هاست همراه با دامنه و قالب وردپرس رایگان در خرید سالانه</p>
+                    </div>
                 </div>
-                <div class="features__item u-bg-white">
-                    <img src="../vendors/images/icon/SSD-hard.webp" alt="استفاده از هاردهای پر سرعت SSD در خرید هاست و سرور از میزبان نت" class="features__img">
-                    <h3 class="heading-tertiary">استفاده از هاردهای SSD با تکنولوژی RAID-10</h3>
-                    <p class="features__text">هاست سی پنل با استفاده از تجهیزات سخت افزاری پرقدرت و اختصاصی در بهترین دیتاسنترهای ایران</p>
-                </div>
-                <div class="features__item">
-                    <img src="../vendors/images/icon/easy-website-install.webp" alt="خرید ویژه هاست و دامنه ارزان از میزبان نت" class="features__img">
-                    <h3 class="heading-tertiary"> خرید ویژه هاست و ثبت دامنه میزبان نت</h3>
-                    <p class="features__text">امکانات ویژه خرید هاست از میزبان نت بصورت سالانه؛ شامل نصب و اهدا قالب، مشاوره سئو و بهینه سازی سایت</p>
-                </div>
-            </div>
+            </div> <!-- End of Container -->
         </section><!--End of second features section-->
     </main> <!--End of Main section-->
 
