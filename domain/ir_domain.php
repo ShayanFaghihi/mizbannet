@@ -1,12 +1,12 @@
 <?php include "header.php"; ?>
 <title>خرید دامنه ir ارزان ‐ میزبان نت</title>
-<meta name="description" content="خرید و ثبت دامنه ملی ir ارزان از طریق نمایندگی میزبان نت. برای خرید دامنه ir ارزان کافیست به میزبان نت سر بزنید و شگفت زده شید">
-<link rel="canonical" href="https://mizbannet.com/domain">
+<meta name="description" content="خرید و ثبت دامنه ملی ir ارزان از طریق نمایندگی میزبان نت. برای خرید دامنه ir با بهترین قیمت کافیست به میزبان نت سر بزنید و شگفت زده شید">
+<link rel="canonical" href="https://mizbannet.com/domain/ir_domain">
 <meta property="og:local" content="fa_IR">
 <meta property="og:title" content="خرید دامنه ir ارزان ‐ میزبان نت" />
-<meta property="og:url" content="https://mizbannet.com/domain" />
+<meta property="og:url" content="https://mizbannet.com/domain/ir_domain" />
 <meta property="og:type" content="company" />
-<meta property="og:description" content="خرید و ثبت دامنه ملی ir ارزان از طریق نمایندگی میزبان نت. برای خرید دامنه ir ارزان کافیست به میزبان نت سر بزنید و شگفت زده شید" />
+<meta property="og:description" content="خرید و ثبت دامنه ملی ir ارزان از طریق نمایندگی میزبان نت. برای خرید دامنه ir با بهترین قیمت کافیست به میزبان نت سر بزنید و شگفت زده شید" />
 <meta property="og:site_name" content="میزبان نت | Mizban Net">
 <meta property="og:image" content="http://www.mizbannet.com/vendors/images/domain-og-image.jpg" />
 
@@ -17,55 +17,67 @@
         "@type": "FAQPage",
         "mainEntity": [{
             "@type": "Question",
-            "name": "دامنه سایت چیست؟",
+            "name": "چگونه دامنه ir ارزان خریداری کنیم؟",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "<p> برای داشتن یک کسب و کار اینترنتی نیاز به آدرس برای شناسایی آن داریم. به نام و آدرس سایت شما، دامنه می گویند.</p>"
+                "text": "<p>برای ثبت دامنه ملی نیاز است که یک شناسه ایرنیک داشته باشید. بعد از آن کافیست به <a style="color:#183346;text-decoration:none;" href="https://mizbannet.com/domain">میزبان نت</a> مراجعه کنید.</p>"
             }
         },{
             "@type": "Question",
-            "name": "چرا از میزبان نت دامنه بخریم؟",
+            "name": "چه مدت طول می کشد دامنه آی آر من ثبت شود؟",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "<p>میزبان نت به عنوان نماینده انحصاری فروش و ثبت دامنه سایت، با بهترین قیمت و ارزان تر از هرجای دیگر اقدام به فروش دامنه کرده است.</p>"
+                "text": "<p>مراحل خرید دامنه از میزبان نت به صورت آنی انجام می شود، اما مراحل ثبت آن توسط ایرنیک ممکن است بین 2 تا 48 ساعت به طول انجامد</p>"
             }
         },{
             "@type": "Question",
-            "name": "دامنه سایت من چه ویژگی باید داشته باشد؟",
+            "name": "دامنه خود را خریداری و ثبت کردم اما وارد سایت نمی شود",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "<p> اسم و دامین سایت شما باید به راحتی به ذهن سپرده شود. کوتاه و متناسب با کسب و کار شما باشد. </p>"
+                "text": "<p> بعد از <a style="color:#183346;text-decoration:none;" href="https://mizbannet.com/domain">خرید دامنه</a> نیاز است که نیم سرورهای هاست خود را به دامنه متصل کنید تا سایت قابل دسترس باشد</p>"
             }
         },{
             "@type": "Question",
-            "name": "چگونه دامنه را به هاست و سایت خود متصل کنم؟",
+            "name": "برای ثبت دامنه ir چه مدارکی لازم است؟",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "بعد از <a href='https://mizbannet.com/'>خرید هاست از میزبان نت</a> دو نیم سرور به شما داده می شود. کافیست در ناحیه کاربری خود این دو نیم سرور را روی دامنه خود ثبت نمایید."
+                "text": "<p>برای ثبت دامنه ir نیاز به مدارک خاصی نیست مگر اینکه یکی از پسوندهای خاص ملی را انتخاب کنید</p>"
             }
-        }]},
-    {
-        "@context": "https://schema.org/",
-        "@type": "CreativeWorkSeason",
-        "name": "ثبت و خرید دامنه سایت ارزان",
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "ratingCount": "210",
-            "bestRating": "5",
-            "worstRating": "1"
-        }
-    },
+        }]}
+        ,
 
     {
         "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [{
-          "@type": "ListItem",
-          "position": 1,
-          "name": "ِDomain Register",
-          "item": "https://mizbannet.com/domain"
-        }]
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "خرید هاست و ثبت دامنه",
+        "item": "https://mizbannet.com"
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "خرید و ثبت دامین",
+        "item": "https://mizbannet.com/hosting"
+      },{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "خرید دامنه ir ارزان"
+      }]
+
+      },
+      {
+        "@context":"https://schema.org",
+        "@type":"Product",
+        "name":"خرید دامنه ir ارزان",
+        "aggregateRating":{
+            
+            "@type":"AggregateRating",
+            "ratingValue":"4.99",
+            "bestRating":"5",
+            "worstRating":"0",
+            "reviewCount":"180"
+        }
       }
 ]
 
@@ -97,11 +109,10 @@
 
             </ol>
                 <h1 class="section-header__title u-margin-bottom-small">خرید دامنه ir ارزان</h1>
-               
+                <div class="content">
                     <p class="u-margin-bottom-medium" style="color:#fff;list-style:inside">
-                    میزبان نت ارائه دهنده خدمات جستجو و ثبت دامنه، شما را در رسیدن به هدفتان یاری می کند. راحت تر و ارزان تر از هرجای دیگر دامنه خود را ثبت کنید. داشتن یک دامین سایت از اولین مراحل داشتن یک وب سایت می باشد. پس اولین قدم خود را به درستی و اصولی بردارید. با خرید دامین از میزبان نت، یک ناحیه کاربری در اختیار شما قرار می گیرد که از طریق آن می توانید نیم سرورهای دامنه را تنظیم نمایید.
-                    </p>
-
+                    برای ثبت و خرید دامنه ارزان ir یا همان دامنه ملی، بهترین مکان میزبان نت می باشد. میزبان نت به عنوان نماینده خدمات <a href="./index.php">فروش دامنه</a>، مفتخر است با به صرفه ترین قیمت امکان ثبت دامین را به نام خود شما ارائه دهد.                    </p>
+                </div>
                 <div class="section-header__cta u-margin-bottom-large">
                     <a href="https://client.mizbannet.com/cart.php?a=add&domain=register" class="btn btn-red">جستجو و خرید دامنه</a>
                 </div>
@@ -112,106 +123,108 @@
         </div>
     </section> <!--End of header section-->
     <main>
-        <section class="features u-bg-white u-text-align-center">
-            <h2 class="heading-secondary">مزایای ثبت دامنه در میزبان نت</h2>
-            
-            <div class="container">
-                <div class="features__boxes row">
-                    <div class="box">
-                        <div class="box__top">
-                        <i class="fas fa-user-cog box__top--icon"></i>
-                        </div>
-                        <div class="box__bottom">
-                            <h3>تنظیم لحظه ای DNSهای دامنه از ناحیه کاربری</h3>
-                        </div>
-                    </div>
-                    <div class="box">
-                        <div class="box__top">
-                        <i class="fas fa-hand-holding-usd box__top--icon"></i>
-                        </div>
-                        <div class="box__bottom">
-                            <h3>ارزان ترین ثبت کننده دامنه</h3>
-                        </div>
-                    </div>
-                    <div class="box">
-                        <div class="box__top">
-                        <i class="fab fa-searchengin box__top--icon"></i>
-                        </div>
-                        <div class="box__bottom">
-                            <h3>جستجوی ویژه دامنه</h3>
-                        </div>
-                    </div>
-                    <div class="box">
-                        <div class="box__top">
-                            <i class="fas fa-fighter-jet box__top--icon"></i>
-                        </div>
-                        <div class="box__bottom">
-                            <h3>ثبت آنی دامنه</h3>
-                        </div>
-                    </div>
-                    <div class="box">
-                        <div class="box__top">
-                            <i class="fas fa-money-check-alt box__top--icon"></i>
-                        </div>
-                        <div class="box__bottom">
-                            <h3>ارائه پیشنهادات برای خرید دامنه</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> <!--End of Section features-->
-        <section>
-            <div class="container">
-                <div class="u-margin-bottom-large">
-    
-                    <h2 class="heading-secondary line--right position-relative u-margin-bottom-medium">ثبت دامنه ارزان سایت</h2>
-                    <p>از آن جهت که میزبان نت نماینده انحصاری فروش دامنه می باشد، ارائه دهنده ارزان ترین دامنه های ملی و بین المللی است. شما در هر لحظه می توانید از طریق ناحیه کاربری اقدام به خرید و ثبت دامنه سایت خود کنید. بعد از خرید هاست کافیست درون ناحیه کاربری خود در میزبان نت، DNSهای ارائه شده را روی دامنه ثبت نمایید.</p>
-                
-                </div>
-                <div class="u-margin-bottom-large">
-    
-                    <h2 class="heading-secondary line--right position-relative u-margin-bottom-medium">دامنه سایت چیست؟</h2>
-                    <p>دامین یا همان آدرس سایت، نامی است که برای کسب و کار اینترنتی خود در نظر می گیرید. شما می توانید هنگام خرید و ثبت دامنه، هر آدرسی که مدنظر دارید جستجو کنید. در صورت آزاد بودن این آدرس، می توانیم اقدام به خرید دامنه سایت نمایید. این نام می تواند اسم برند، اسم شخص شما یا هر آدرس متناسب با کسب و کار شما باشد.</p>
-                    <p>هر دامنه یک پسوند یا (Top-level Domain)TLD دارد. این پسوندها به دو دسته کلی gTLD و ccTLD تقسیم می شوند. gTLDها پسوندهای بین المللی مانند com. و org. می باشند؛ و پسوندهای ccTLD مربوط به دامنه های ملی هر کشور، مانند ir. که دامنه ملی ایران است، می باشد. از بین TLDها می توانید هرکدام را که تمایل داشتید انتخاب کنید؛  </p>
-                
-                </div>
-            </div>
+        <section class="content-section u-bg-white u-padding-top-large">
+            <div class="container row">
+                <div class="content">
+                    <h2 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">چگونه دامنه آی آر ثبت کنیم؟</h2>
+                    <p class="u-margin-bottom-small content__text">
+                    قبل از خرید و ثبت دامنه ملی لازم است که برای خود یک حساب و شناسه ایرنیک تهیه کنید. از طریق <a href="https://www.nic.ir/">این لینک می توانید وارد سایت nic.ir </a>شده، و بعد از افتتاح حساب، شناسه ایرنیک خود را دریافت کنید. بعد از دریافت این شناسه، می توانید اقدام به <a href="../hosting">خرید هاست ارزان</a> از میزبان نت کنید. در پنل کاربری خود کافیست بعد از جستجوی دامنه، در صورت موجود بودن آن، خرید خود را انجام دهید.
+                    </p>
+                </div><!-- content-->
+                <div class="content__img u-text-align-center">
+                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                </div> <!-- image inside container -->
+            </div> <!-- container and row -->
+            <div class="container row">
+                <div class="content">
+                    <h2 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">چرا دامنه ملی بخریم؟</h2>
+                    <p class="u-margin-bottom-small content__text">
+                    داشتن یک دامنه و هاست از الزامات <a href="../index.php">راه اندازی یک وب سایت </a>می باشد. برای اینکه بتوانید با کمترین قیمت سایت خود را راه اندازی کنید، داشتن دامنه ir بهترین راه می باشد؛ زیرا که با هزینه ای اندک می توانید اسم سایت خود را دریافت کنید.
+                    </p>
+                    <p class="u-margin-bottom-small content__text">
+                    علاوه بر این، پیشنهاد می شود برای کسب و کار خود علاوه بر دامنه های بین المللی، دامنه ملی نیز خریداری کنید تا گرفتار مشکلات آتی نشوید. موجود بودن دامنه های ایرانی، در مقایسه با نمونه های مشابه بین المللی، محتمل تر است.
+                    </p>
+                    <a href="https://client.mizbannet.com/cart.php?a=add&domain=register" class="btn btn-red" style="color:#fff">همین الان دامنه خود را ثبت کنید</a>
+                </div><!-- content-->
+                <div class="content__img u-text-align-center">
+                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                </div> <!-- image inside container -->
+            </div> <!-- container and row -->
         </section>
+
+        <section class="content-section u-bg-white u-padding-top-large">
+            <div class="container row">
+                <div class="content">
+                    <h2 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">انواع دامنه ir و کاربرد آنها</h2>
+                    <p class="u-margin-bottom-small content__text">
+                    مطمئنا تا کنون انواع پسوندهای دامنه های ir را دیده اید. اگر مشتاق هستید که تفاوت و کاربرد آنها را بدانید، همراه ما باشید.
+                    </p>
+
+                    <ul class="u-margin-bottom-large" style="color:#183346;list-style:inside">
+                        <li>
+                            <strong>ir.</strong>  این پسوند قابل استفاده توسط تمام اشخاص حقیقی و حقوقی می باشد، و بدون نیاز به ارائه مدرک خاصی به راحتی قابل ثبت می باشد.
+                        </li><br>
+                        
+                        <li>
+                            <strong>co.ir</strong> این نوع پسوند مناسب شرکت ها و موسسات دولتی و غیر دولتی می باشد؛ مشخصا افراد غیر حقوقی نمی توانند این پسوند را برای خود ثبت کنند. اگر دارای یک سازمان یا موسسه می باشید، کافیست بعد از دریافت شناسه مربوطه، یک ایمیل حاوی روزنامه رسمی شرکت خود به ایمیل info@irnic.ir ارسال نمایید تا دامنه شما ثبت گردد.
+                        </li><br>
+
+                        <li>	<strong>ac.ir</strong>
+                             مخصوص سازمان ها و ادارات آموزشی و همچنین اشخاص حقوقی دارای مجوز از سازمان های مربوطه می باشد. برای دریافت این پسوند باید بعد از دریافت شناسه، مجوز خود را به آدرس info@irnic.ir ارسال نمایید.
+
+                        </li><br>
+
+                        <li>	<strong>gov.ir</strong> پسوند مناسب اداره جات و سازمان های دولتی تحت نظر قوه های مجریه، مقننه، و قوه قضاییه می باشد. برای ثبت این چنین دامنه ها باید مجوز رسمی خود را تحت سربرگ به آدرس ایرنیک فکس، پست، یا ضمیمه ایمیل نمایید.
+
+                        </li><br>
+                        
+                        <li>	<strong>org.ir</strong> مخصوص شرکت ها، موسسات غیر انتفاعی یا سازمان های بین المللی می باشد. متقاضی باید کپی اسناد و مدارک مربوطه که ذکر کننده نوع فعالیت آن ها هستند را به همراه اساس نامه شرکت به آدرس ایرنیک بفرستند.
+
+                        </li>
+
+                    </ul>
+                </div><!-- content-->
+                <div class="content__img u-text-align-center">
+                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                </div> <!-- image inside container -->
+            </div> <!-- container and row -->
+        </section>  
+        <!-- FAQ -->
         <section class="section-faq u-bg-grey">
             <h2 class="heading-secondary u-margin-bottom-extra line--small__dark position-relative u-text-align-center">سوالات متداول</h2>
             <div class="container row">
                 <div class="section-faq__box u-bg-white">
                     <div class="section-faq__box--top">
-                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">دامنه سایت چیست؟</h3>
+                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">چگونه دامنه ir ارزان خریداری کنیم؟</h3>
                     </div>
                     <div class="section-faq__box--bottom">
-                        <p>برای داشتن یک کسب و کار اینترنتی نیاز به آدرس برای شناسایی آن داریم. به نام و آدرس سایت شما، دامنه می گویند</p>
+                        <p>برای ثبت دامنه ملی نیاز است که یک شناسه ایرنیک داشته باشید. بعد از آن کافیست به <a style="color:#183346;text-decoration:none;" href="https://mizbannet.com/domain">میزبان نت</a> مراجعه کنید.</p>
                     </div>
                 </div>
                 <div class="section-faq__box u-bg-white">
                     <div class="section-faq__box--top">
-                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">چرا از میزبان نت دامنه بخریم؟</h3>
+                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">چه مدت طول می کشد دامنه آی آر من ثبت شود؟</h3>
                     </div>
                     <div class="section-faq__box--bottom">
-                        <p>میزبان نت به عنوان نماینده انحصاری فروش و ثبت دامنه سایت، با بهترین قیمت و ارزان تر از هرجای دیگر اقدام به فروش دامنه کرده است.</p>
+                        <p>مراحل خرید دامنه از میزبان نت به صورت آنی انجام می شود، اما مراحل ثبت آن توسط ایرنیک ممکن است بین 2 تا 48 ساعت به طول انجامد</p>
                     </div>
                 </div>
             </div>
             <div class="container row">
                 <div class="section-faq__box u-bg-white">
                     <div class="section-faq__box--top">
-                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">چگونه دامنه را به هاست و سایت خود متصل کنم؟</h3>
+                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">دامنه خود را خریداری و ثبت کردم اما وارد سایت نمی شود</h3>
                     </div>
                     <div class="section-faq__box--bottom">
-                        <p>بعد از <a href="https://mizbannet.com/">خرید هاست از میزبان نت</a> دو نیم سرور به شما داده می شود. کافیست در ناحیه کاربری خود این دو نیم سرور را روی دامنه خود ثبت نمایید.</p>
+                        <p>بعد از <a style="color:#183346;text-decoration:none;" href="https://mizbannet.com/domain">خرید دامنه</a> نیاز است که نیم سرورهای هاست خود را به دامنه متصل کنید تا سایت قابل دسترس باشد</p>
                     </div>
                 </div>
                 <div class="section-faq__box u-bg-white">
                     <div class="section-faq__box--top">
-                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">دامنه سایت من چه ویژگی باید داشته باشد؟</h3>
+                        <h3 class="heading-tertiary line--medium position-relative u-margin-bottom-medium">برای ثبت دامنه ir چه مدارکی لازم است؟</h3>
                     </div>
                     <div class="section-faq__box--bottom">
-                        <p>بعد از <a style="color:#183346;text-decoration:none;" href="https://mizbannet.com/">اسم و دامین سایت شما باید به راحتی به ذهن سپرده شود. کوتاه و متناسب با کسب و کار شما باشد.</p>
+                        <p>برای ثبت دامنه ir نیاز به مدارک خاصی نیست مگر اینکه یکی از پسوندهای خاص ملی را انتخاب کنید</p>
                     </div>
                 </div>
             </div>
