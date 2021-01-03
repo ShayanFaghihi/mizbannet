@@ -1,10 +1,10 @@
 <?php include "header.php"; ?>
 <title>خرید دامنه ارزان از نمایندگی رسمی ‐ میزبان نت</title>
 <meta name="description" content="دنبال خرید دامنه ارزان هستید؟ از میزبان نت ارزان تر از هرجا دامنه خود را خریداری و ثبت نمایید. نمایندگی رسمی خرید و ثبت دامین با بهترین و به صرفه ترین قیمت">
-<link rel="canonical" href="https://mizbannet.com/domain/domain_register">
+<link rel="canonical" href="https://mizbannet.com/domain">
 <meta property="og:local" content="fa_IR">
 <meta property="og:title" content="خرید دامنه ارزان از نمایندگی رسمی ‐ میزبان نت" />
-<meta property="og:url" content="https://mizbannet.com/domain/domain_register" />
+<meta property="og:url" content="https://mizbannet.com/domain" />
 <meta property="og:type" content="company" />
 <meta property="og:description" content="دنبال خرید دامنه ارزان هستید؟ از میزبان نت ارزان تر از هرجا دامنه خود را خریداری و ثبت نمایید. نمایندگی رسمی خرید و ثبت دامین با بهترین و به صرفه ترین قیمت" />
 <meta property="og:site_name" content="میزبان نت | Mizban Net">
@@ -59,10 +59,6 @@
         "position": 2,
         "name": "خرید و ثبت دامین",
         "item": "https://mizbannet.com/hosting"
-      },{
-        "@type": "ListItem",
-        "position": 3,
-        "name": "خرید دامنه ارزان"
       }]
 
       },
@@ -96,23 +92,17 @@
                 <li class="g-breadcrumbs-separator"> ></li>
 
                 <li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                    <a itemprop="item" href="https://mizbannet.com/domain"><span itemprop="name">ثبت دامنه</span></a><meta itemprop="position" content="2">
-                </li>
-
-                <li class="g-breadcrumbs-separator">
-                >
-                </li>
-
-                <li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
                     <a itemprop="item" href="https://mizbannet.com/domain/domain_register"><span itemprop="name">خرید دامنه ارزان</span></a><meta itemprop="position" content="3">
                 </li>
+
+               
 
             </ol>
                 <h1 class="section-header__title u-margin-bottom-small">خرید دامنه ارزان از نمایندگی میزبان نت</h1>
                
                 <div class="content">
                     <p class="u-margin-bottom-medium content__text content__text-white">
-                    میزبان نت ارائه دهنده خدمات <a href="./index.php">خرید دامنه</a> با بهترین قیمت و ارزان تر از هرجا، شما را در رسیدن به هدفتان یاری می کنید. داشتن یک دامین از اولین مراحل داشتن یک وب سایت می باشد. پس اولین قدم خود را به درستی و اصولی بردارید.                    
+                    میزبان نت ارائه دهنده خدمات <a href="../index.php">خرید دامنه</a> با بهترین قیمت و ارزان تر از هرجا، شما را در رسیدن به هدفتان یاری می کنید. داشتن یک دامین از اولین مراحل داشتن یک وب سایت می باشد. پس اولین قدم خود را به درستی و اصولی بردارید.                    
                     </p>
                 </div>
 
@@ -127,6 +117,13 @@
     </section> <!--End of header section-->
 
     <main class="u-padding-top-large">
+    <section class="content-section u-bg-white">
+            <div class="container row">
+                <div class="content">
+                    <h2 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">لیست قیمت و جستجوی دامنه</h2>
+
+            </div> <!-- container and row -->
+        </section>
         <section class="content-section u-bg-white">
             <div class="container row">
                 <div class="content">

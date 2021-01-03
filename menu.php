@@ -44,7 +44,6 @@
                     <a href="./domain" class="main-nav__link">دامنه</a>
                     <div class="main-nav__link--dropdown">
                         <ul>
-                            <li><a href="domain/domain_register">خرید دامنه</a></li>
                             <li><a href="domain/ir_domain">ثبت دامنه ir</a></li>
                         </ul>
                     </div>
@@ -101,7 +100,6 @@
                         <a href="./domain" class="main-nav__link">دامنه</a>
                         <div class="main-nav__link--dropdown">
                             <ul>
-                                <li><a href="domain/domain_register">خرید دامنه</a></li>
                                 <li><a href="domain/ir_domain">ثبت دامنه ir</a></li>
                             </ul>
                         </div>

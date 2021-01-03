@@ -44,7 +44,6 @@
                         <a href="./" class="main-nav__link">دامنه</a>
                         <div class="main-nav__link--dropdown">
                             <ul>
-                                <li><a href="domain_register">خرید دامنه</a></li>
                                 <li><a href="ir_domain">ثبت دامنه ir</a></li>
                             </ul>
                         </div>
@@ -102,7 +101,6 @@
                         <a href="./"  class="main-nav__link nav-active">دامنه</a>
                         <div class="main-nav__link--dropdown">
                             <ul>
-                                <li><a href="domain_register" <?php if ($file_url == 'domain_register') echo "class='nav-active'"; ?>>خرید دامنه</a></li>
                                 <li><a href="ir_domain" <?php if ($file_url == 'ir_domain') echo "class='nav-active'"; ?>>ثبت دامنه ir</a></li>
                             </ul>
                         </div>
