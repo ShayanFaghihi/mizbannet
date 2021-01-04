@@ -84,20 +84,6 @@
 <section id="header" class="section-header">
         <div class="container row">
             <div class="section-header__cta">
-            <ol class="g-breadcrumbs hide_current" style="font-size:.7rem;" itemscope="" itemtype="http://schema.org/BreadcrumbList">
-                <li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                    <a itemprop="item" href="https://mizbannet.com"><span itemprop="name">میزبان نت</span></a><meta itemprop="position" content="1">
-                </li>
-
-                <li class="g-breadcrumbs-separator"> ></li>
-
-                <li class="g-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                    <a itemprop="item" href="https://mizbannet.com/domain/domain_register"><span itemprop="name">خرید دامنه ارزان</span></a><meta itemprop="position" content="3">
-                </li>
-
-               
-
-            </ol>
                 <h1 class="section-header__title u-margin-bottom-small">خرید دامنه ارزان از نمایندگی میزبان نت</h1>
                
                 <div class="content">
@@ -111,7 +97,7 @@
                 </div>
             </div>
             <div class="section-header__img">
-                <img src="../vendors/images/domain-large.webp" alt="ثبت و خرید دامنه سایت ارزان در میزبان نت">
+                <img class="hero-img" src="../vendors/images/domain-large.webp" alt="خرید دامنه ارزان از میزبان نت">
             </div>
         </div>
     </section> <!--End of header section-->

@@ -118,7 +118,7 @@
                 </div>
             </div>
             <div class="section-header__img">
-                <img src="../vendors/images/domain-large.webp" alt="ثبت و خرید دامنه سایت ارزان در میزبان نت">
+                <img class="hero-img" src="../vendors/images/ir-domain.webp" alt="خرید دامنه ir ارزان">
             </div>
         </div>
     </section> <!--End of header section-->

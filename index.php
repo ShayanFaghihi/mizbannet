@@ -29,12 +29,12 @@
                         <li><h3 class="section-header__text">خدمات سئو و دیجیتال مارکتینگ</h3></li>
                     </ul>
                 <div class="section-header__cta u-margin-bottom-large">
-                    <a href="#plans" class="btn btn-red">شروع کن</a>
+                    <a href="/hosting" class="btn btn-red">شروع کن</a>
                     <a href="#features" class="btn btn-transparent">اطلاعات بیشتر</a>
                 </div>
             </div>
             <div class="section-header__img">
-                <img src="vendors/images/main-header.webp" alt=" خرید هاست و ثبت دامنه با سرعت بالا از میزبان نت">
+                <img class="hero-img" src="vendors/images/main-header.webp" alt=" خرید هاست و ثبت دامنه با سرعت بالا از میزبان نت">
             </div>
         </div>
     </section> <!--End of header section-->
@@ -47,7 +47,7 @@
                 <div class="features__boxes row">
                     <div class="box">
                         <div class="box__top">
-                            <img src="vendors/images/icon/high-speed.webp" alt="خرید هاست و ثبت دامنه در شرکت هاستینگ میزبان نت" class="box__img">
+                            <img src="vendors/images/icon/high-speed.webp" alt="سرعت بالای سرورهای هاستینگ میزبان نت" class="box__img">
                         </div>
                         <div class="box__bottom">
                             <h3>سرعت بالا سرورها</h3>
@@ -55,10 +55,10 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="vendors/images/icon/security-hosting.webp" alt="خرید هاست لینوکس سی پنل همراه با پشتیبانی و بک آپ" class="box__img">
+                            <img src="vendors/images/icon/security-hosting.webp" alt="ارائه SSL رایگان در خرید هاست" class="box__img">
                         </div>
                         <div class="box__bottom">
-                            <h3>بکاپ اطلاعات شما بصورت منظم</h3>
+                            <h3>SSL رایگان</h3>
                         </div>
                     </div>
                     <div class="box">
@@ -71,7 +71,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="vendors/images/icon/24-supporting.webp" alt="پشتیبانی 24 ساعته در خرید هاست و دامنه" class="box__img">
+                            <img src="vendors/images/icon/24-supporting.webp" alt="گارانتی بازگشت وجه بعد از خرید هاست" class="box__img">
                         </div>
                         <div class="box__bottom">
                             <h3>گارانتی بازگشت وجه ۷ روزه</h3>
@@ -87,14 +87,14 @@
             
             <div class="row">
                 <div class="features__item">
-                    <img src="vendors/images/icon/24-hour-support.webp" alt="پشتیبانی 24 ساعته در خرید هاست و دامنه" class="features__img">
+                    <img src="vendors/images/icon/24-hour-support.webp" alt="پشتیبانی شبانه روز در خرید هاست و دامنه" class="features__img">
                     <h3 class="heading-tertiary">پشتیبانی ۲۴ ساعته خرید هاست</h3>
                     <p class="features__text">در همه لحظات همراه و پشتیبان شما هستیم. پشتیبانی ۲۴ ساعته در تمام روزهای هفته</p>
                 </div>
                 <div class="features__item u-bg-white">
-                    <img src="vendors/images/icon/SSD-hard.webp" alt="استفاده از هاردهای پر سرعت SSD در خرید هاست و سرور از میزبان نت" class="features__img">
-                    <h3 class="heading-tertiary">استفاده از هاردهای SSD با تکنولوژی RAID-10</h3>
-                    <p class="features__text">هاست سی پنل با استفاده از تجهیزات سخت افزاری پرقدرت و اختصاصی در بهترین دیتاسنترهای ایران</p>
+                    <img src="vendors/images/icon/SSD-hard.webp" alt="استفاده از دیسک ها و منابع سخت افزاری در هاست ها و سرورها" class="features__img">
+                    <h3 class="heading-tertiary">استفاده از دیسک های RAID-10</h3>
+                    <p class="features__text">منابع سخت افزاری و نرم افزاری قدرتمند جهت رضایت مندی شما</p>
                 </div>
                 <div class="features__item">
                     <img src="vendors/images/icon/easy-website-install.webp" alt="خرید ویژه هاست و دامنه ارزان از میزبان نت" class="features__img">
@@ -106,11 +106,11 @@
         <section class="section-cta u-bg-white u-text-align-center">
             <div class="container row">
                 
-                <img src="vendors/images/buy-host-cta2.webp" alt="خرید هاست و دامنه ارزان سی پنل" class="section-cta__img">
+                <img src="vendors/images/buy-host-cta2.webp" alt="همین امروز استارت خرید هاست خود را بزنید" class="section-cta__img">
                 <div class="section-cta__text">
                     
                     <h3 class="heading-tertiary ">همین امروز استارت راه اندازی وب سایت خودتونو بزنید</h3>
-                    <a href="#" class="btn btn-red">همین حالا شروع کنید</a>
+                    <a href="/hosting" class="btn btn-red">همین حالا شروع کنید</a>
                     
                 </div>
                 <img src="vendors/images/buy-host-cta.webp" alt="شرکت فروش هاست و دامنه با قیمت مناسب" class="section-cta__img">

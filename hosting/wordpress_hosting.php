@@ -116,7 +116,7 @@
                 </div>
             </div>
             <div class="section-header__img">
-                <img src="../vendors/images/WordPress-host.webp" alt="خرید هاست وردپرس (WordPress) ارزان با پهنای باند نامحدود">
+                <img class="hero-img" src="../vendors/images/WordPress-host.webp" alt="خرید هاست وردپرس (WordPress) ارزان با پهنای باند نامحدود">
             </div>
         </div>
     </section> <!--End of header section-->
@@ -133,10 +133,10 @@
                     <img src="../vendors/images/icon/first-plan.webp" alt="خرید پلن اول هاست وردپرس پرسرعت میزبان نت" class="plans__box--img">
                     <h3 class="plans__box--title">برنزی</h3>
                     <p class="plans__box--description">خرید هاست پرسرعت وردپرس میزبان نت همراه با قالب رایگان</p>
-                    <p class="plans__box--price"><strong> ۳۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
+                    <p class="plans__box--price"><strong> ۲۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <ul class="plans__box--features">
                         <li class="plans__box--feature">- 1Gig فضا</li>
-                        <li class="plans__box--feature">-  دیسک های SAS با کنترلر RAID-10</li>
+                        <li class="plans__box--feature">-  هاردهای پرقدرت RAID-10</li>
                         <li class="plans__box--feature">- میزبانی ۲ سایت </li>
                         <li class="plans__box--feature">-  ترافیک ماهانه نامحدود</li>
                         <li class="plans__box--feature">- cPanel + LiteSpeed</li>
@@ -148,19 +148,19 @@
                         <li class="plans__box--feature"><i class="fas fa-gift"></i> قالب وردپرس رایگان در خرید سالانه </li>
                         <li class="plans__box--feature u-margin-bottom-medium"><i class="fas fa-gift"></i> دامنه ir. رایگان در خرید سالانه </li>
                     </ul>
-                    <p ><strong> ۱۰۱,۵۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
-                    <p ><strong> ۱۹۸,۵۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
-                    <p class="u-margin-bottom-medium"><strong> ۳۸۳,۰۰۰ <span> تومان </span></strong><sub> \ سالانه </sub></p>
+                    <p ><strong> ۸۹,۹۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
+                    <p ><strong> ۱۷۹,۹۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
+                    <p class="u-margin-bottom-medium"><strong> ۳۲۸,۹۰۰ <span> تومان </span></strong><sub> \ سالانه (یک ماه رایگان) </sub></p>
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=5" class="btn btn-info">خرید سرویس</a>
                 </div>
                 <div class="plans__box suggested">
                     <img src="../vendors/images/icon/second-plan.webp" alt="خرید بهترین هاست برای وردپرس" class="plans__box--img">
                     <h3 class="plans__box--title">نقره‌ای</h3>
                     <p class="plans__box--description">خرید هاست قدرتمند وردپرس با سرعت و پایداری بالا</p>
-                    <p class="plans__box--price"><strong> ۵۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
+                    <p class="plans__box--price"><strong> ۴۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <ul class="plans__box--features">
                         <li class="plans__box--feature">- 2Gig فضا</li>
-                        <li class="plans__box--feature">-  دیسک های SAS با کنترلر RAID-10</li>
+                        <li class="plans__box--feature">-  هاردهای پرقدرت RAID-10</li>
                         <li class="plans__box--feature">- میزبانی ۳ سایت </li>
                         <li class="plans__box--feature">-  ترافیک ماهانه نامحدود</li>
                         <li class="plans__box--feature">- cPanel + LiteSpeed</li>
@@ -172,19 +172,19 @@
                         <li class="plans__box--feature"><i class="fas fa-gift"></i> قالب وردپرس رایگان در خرید سالانه </li>
                         <li class="plans__box--feature u-margin-bottom-medium"><i class="fas fa-gift"></i> دامنه ir. رایگان در خرید سالانه </li>
                     </ul>
-                    <p ><strong> ۱۵۲,۵۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
-                    <p ><strong> ۲۹۸,۵۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
-                    <p class="u-margin-bottom-medium"><strong> ۵۷۵,۰۰۰ <span> تومان </span></strong><sub> \ سالانه </sub></p>
+                    <p ><strong> ۱۴۹,۹۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
+                    <p ><strong> ۲۹۹,۹۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
+                    <p class="u-margin-bottom-medium"><strong> ۵۴۸,۹۰۰ <span> تومان </span></strong><sub> \ سالانه (یک ماه رایگان) </sub></p>
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=6" class="btn btn-blue">خرید سرویس</a>
                 </div>
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/third-plan.webp" alt="پلن دوم خرید هاست مخصوص وردپرس" class="plans__box--img">
+                    <img src="../vendors/images/icon/third-plan.webp" alt="پلن سوم خرید هاست مخصوص وردپرس" class="plans__box--img">
                     <h3 class="plans__box--title">طلایی</h3>
                     <p class="plans__box--description">خرید بهترین هاست وردپرس برای میزبانی سایت های پربازدید شما</p>
-                    <p class="plans__box--price"><strong> ۸۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
+                    <p class="plans__box--price"><strong> ۷۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <ul class="plans__box--features">
                         <li class="plans__box--feature">- 5Gig فضا</li>
-                        <li class="plans__box--feature">-  دیسک های SAS با کنترلر RAID-10</li>
+                        <li class="plans__box--feature">-  هاردهای پرقدرت RAID-10</li>
                         <li class="plans__box--feature">- میزبانی ۵ سایت </li>
                         <li class="plans__box--feature">-  ترافیک ماهانه نامحدود</li>
                         <li class="plans__box--feature">- cPanel + LiteSpeed</li>
@@ -196,9 +196,9 @@
                         <li class="plans__box--feature"><i class="fas fa-gift"></i> قالب وردپرس رایگان در خرید سالانه </li>
                         <li class="plans__box--feature u-margin-bottom-medium"><i class="fas fa-gift"></i> دامنه ir. رایگان در خرید سالانه </li>
                     </ul>
-                    <p ><strong> ۲۲۹,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
-                    <p ><strong> ۴۴۷,۵۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
-                    <p class="u-margin-bottom-medium"><strong> ۸۶۳,۰۰۰ <span> تومان </span></strong><sub> \ سالانه </sub></p>
+                    <p ><strong> ۲۳۹,۹۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
+                    <p ><strong> ۴۷۹,۹۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
+                    <p class="u-margin-bottom-medium"><strong> ۸۷۸,۹۰۰ <span> تومان </span></strong><sub> \ سالانه (یک ماه رایگان) </sub></p>
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=7" class="btn btn-info">خرید سرویس</a>
                 </div>
             </div>
@@ -250,7 +250,7 @@
                     <div class="features__item u-border-left u-border-bottom">
                         <img src="../vendors/images/icon/server-ssd-hard.webp" alt="پشتیبانی هاست وردپرس بصورت 24 ساعته " class="features__img">
                         <h3 class="heading-tertiary">استفاده از دیسک های قدرتمند</h3>
-                        <p class="features__text">اطلاعات <a href="https://mizbannet.com/hosting">هاست های میزبان نت</a> تحت تکنولوژی RAID بصورت Mirror در هاردهای متعدد ذخیره شدند، تا داده های میزبانی شده با اطمینان بالا حفظ شوند.</p>
+                        <p class="features__text">اطلاعات <a style="color:#c51e39;text-decoration:none;" href="https://mizbannet.com/hosting">هاست های میزبان نت</a> تحت تکنولوژی RAID بصورت Mirror در هاردهای متعدد ذخیره شدند، تا داده های میزبانی شده با اطمینان بالا حفظ شوند.</p>
                     </div>
                     <div class="features__item u-border-bottom">
                         <img src="../vendors/images/icon/247-support.webp" alt="استفاده از هاردهای پر سرعت SSD در هاست و سرور وردپرس" class="features__img">
@@ -290,7 +290,7 @@
                 <div class="features__boxes row">
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/control-panel.webp" alt="هاست وردپرس سی پنل" class="box__img">
+                            <img src="../vendors/images/icon/control-panel.webp" alt="هاست وردپرس سی پنل (cPanel)" class="box__img">
                         </div>
                         <div class="box__bottom">
                             <h3>کنترل پنل cPanel</h3>
@@ -298,7 +298,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="استفاده از هاردهای ssd در هاست وردپرس" class="box__img">
+                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="هاست ارزان با پهنای باند نامحدود" class="box__img">
                         </div>
                         <div class="box__bottom">
                             <h3>پهنای باند نامحدود</h3>
@@ -307,7 +307,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/security-hosting.webp" alt="امنیت بالای هاست های وردپرس میزبان نت" class="box__img">
+                            <img src="../vendors/images/icon/security-hosting.webp" alt="استفاده از پردازنده و رم های پرقدرت در هاست وردپرس میزبان نت" class="box__img">
                         </div>
                         <div class="box__bottom">
                             <h3>استفاده از پردازنده و حافظه رم های پرقدرت</h3>

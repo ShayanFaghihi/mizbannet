@@ -122,7 +122,7 @@
                 </div>
             </div>
             <div class="section-header__img">
-                <img src="../vendors/images/shared-hosting-header.webp" alt="خرید هاست لینوکس ارزان میزبان نت با SSL رایگان">
+                <img class="hero-img" src="../vendors/images/shared-hosting.webp" alt="خرید هاست لینوکس ارزان میزبان نت با SSL رایگان">
             </div>
         </div>
     </section> <!--End of header section-->
@@ -137,61 +137,61 @@
                     <img src="../vendors/images/icon/first-plan.webp" alt="پلن اقتصادی هاست اشتراکی لینوکس میزبان نت" class="plans__box--img">
                     <h3 class="plans__box--title">اقتصادی</h3>
                     <p class="plans__box--description">هاست لینوکس مناسب برای شروع یک کسب و کار اینترنتی کوچک</p>
-                    <p class="plans__box--price"><strong> ۱۹,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
+                    <p class="plans__box--price"><strong> ۱۲,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <ul class="plans__box--features">
                         <li class="plans__box--feature">- 500MB فضا</li>
-                        <li class="plans__box--feature">- دیسک های SAS با کنترلر RAID-10</li>
+                        <li class="plans__box--feature">- هاردهای پرقدرت RAID-10</li>
                         <li class="plans__box--feature">- میزبانی ۱ سایت </li>
-                        <li class="plans__box--feature">- 100Gig ترافیک ماهانه</li>
+                        <li class="plans__box--feature">- 100Gig ترافیک ماهیانه</li>
                         <li class="plans__box--feature">- cPanel + LiteSpeed</li>
                         <li class="plans__box--feature">- SSL رایگان</li>
                         <li class="plans__box--feature">- تعداد دیتابیس نامحدود</li>
                         <li class="plans__box--feature">- بکاپ گیری منظم هفتگی</li>
                         <li class="plans__box--feature u-margin-bottom-medium"><i class="fas fa-gift"></i> دامنه ir. رایگان در خرید سالانه </li>
                     </ul>
-                    <p ><strong> ۴۹,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
-                    <p ><strong> ۹۴,۰۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
-                    <p class="u-margin-bottom-medium"><strong> ۱۸۰,۰۰۰ <span> تومان </span></strong><sub> \ سالانه </sub></p>
+                    <p ><strong> ۳۶,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
+                    <p ><strong> ۷۲,۰۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
+                    <p class="u-margin-bottom-medium"><strong> ۱۳۲,۰۰۰ <span> تومان </span></strong><sub> \ سالانه (یک ماه رایگان) </sub></p>
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=1" class="btn btn-info">خرید سرویس</a>
                 </div>
                 <div class="plans__box suggested">
                     <img src="../vendors/images/icon/second-plan.webp" alt="پلن بیزینسی هاست لینوکس میزبان نت" class="plans__box--img">
                     <h3 class="plans__box--title">بیزینسی</h3>
                     <p class="plans__box--description">پیشنهاد میزبان نت برای داشتن یک هاست قدرتمند</p>
-                    <p class="plans__box--price"><strong> ۲۹,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
+                    <p class="plans__box--price"><strong> ۱۶,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <ul class="plans__box--features">
                         <li class="plans__box--feature">- 1Gig فضا</li>
-                        <li class="plans__box--feature">- دیسک های SAS با کنترلر RAID-10</li>  <li class="plans__box--feature">- میزبانی ۱ سایت </li>
-                        <li class="plans__box--feature">- 200Gig ترافیک ماهانه</li>
+                        <li class="plans__box--feature">- هاردهای پرقدرت RAID-10</li>  <li class="plans__box--feature">- میزبانی ۱ سایت </li>
+                        <li class="plans__box--feature">- 200Gig ترافیک ماهیانه</li>
                         <li class="plans__box--feature">- cPanel + LiteSpeed</li>
                         <li class="plans__box--feature">- SSL رایگان</li>
                         <li class="plans__box--feature">- تعداد دیتابیس نامحدود</li>
                         <li class="plans__box--feature">- بکاپ گیری منظم هفتگی</li>
                         <li class="plans__box--feature u-margin-bottom-medium"><i class="fas fa-gift"></i> دامنه ir. رایگان در خرید سالانه </li>
                     </ul>
-                    <p ><strong> ۷۵,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
-                    <p ><strong> ۱۴۴,۰۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
-                    <p class="u-margin-bottom-medium"><strong> ۲۷۸,۰۰۰ <span> تومان </span></strong><sub> \ سالانه </sub></p>
+                    <p ><strong> ۴۸,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
+                    <p ><strong> ۹۶,۰۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
+                    <p class="u-margin-bottom-medium"><strong> ۱۷۶,۰۰۰ <span> تومان </span></strong><sub> \ سالانه (یک ماه رایگان) </sub></p>
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=3" class="btn btn-blue">خرید سرویس</a>
                 </div>
                 <div class="plans__box">
                     <img src="../vendors/images/icon/third-plan.webp" alt="پلن بیزینسی پلاس میزبان نت" class="plans__box--img">
                     <h3 class="plans__box--title">بیزینسی پلاس</h3>
                     <p class="plans__box--description">هاست پرقدرت مناسب برای راه اندازی انواع اسکریپت های مختلف</p>
-                    <p class="plans__box--price"><strong> ۴۹,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
+                    <p class="plans__box--price"><strong> ۲۸,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
                     <ul class="plans__box--features">
                         <li class="plans__box--feature">- 3Gig فضا</li>
-                        <li class="plans__box--feature">- دیسک های SAS با کنترلر RAID-10</li><li class="plans__box--feature">- میزبانی ۱ سایت </li>
-                        <li class="plans__box--feature">- 300Gig ترافیک ماهانه</li>
+                        <li class="plans__box--feature">- هاردهای پرقدرت RAID-10</li><li class="plans__box--feature">- میزبانی ۱ سایت </li>
+                        <li class="plans__box--feature">- 300Gig ترافیک ماهیانه</li>
                         <li class="plans__box--feature">- cPanel + LiteSpeed</li>
                         <li class="plans__box--feature">- SSL رایگان</li>
                         <li class="plans__box--feature">- تعداد دیتابیس نامحدود</li>
                         <li class="plans__box--feature">- بکاپ گیری منظم هفتگی</li>
                         <li class="plans__box--feature u-margin-bottom-medium"><i class="fas fa-gift"></i> دامنه ir. رایگان در خرید سالانه </li>
                     </ul>
-                    <p ><strong> ۱۲۵,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
-                    <p ><strong> ۲۴۴,۰۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
-                    <p class="u-margin-bottom-medium"><strong> ۴۷۰,۰۰ <span> تومان </span></strong><sub> \ سالانه </sub></p>
+                    <p ><strong> ۸۴,۰۰۰ <span> تومان </span></strong><sub> \ سه ماهه </sub></p>
+                    <p ><strong> ۱۶۸,۰۰۰ <span> تومان </span></strong><sub> \ شش ماهه </sub></p>
+                    <p class="u-margin-bottom-medium"><strong> ۳۵۲,۰۰۰ <span> تومان </span></strong><sub> \ سالانه (یک ماه رایگان) </sub></p>
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=4" class="btn btn-info">خرید سرویس</a>
                 </div>
             </div>
@@ -257,12 +257,12 @@
             <div class="container">
                 <div class="row">
                     <div class="features__item u-border-left u-border-bottom">
-                        <img src="../vendors/images/icon/server-ssd-hard.webp" alt="پشتیبانی هاست 24 ساعته" class="features__img">
+                        <img src="../vendors/images/icon/server-ssd-hard.webp" alt="استفاده از سخت افزارهای قدرتمند در هاست لینوکس" class="features__img">
                         <h3 class="heading-tertiary"> استفاده از سخت افزار قدرتمند</h3>
                         <p class="features__text">هاردهای SAS با قدرت پردازش و انتقال سریع فایل ها، پردازنده های چند هسته ای (تا 16 هسته)، حافظه رم بالای 16 گیگ همراه با آپتایم بالای ۹۹,۹%</p>
                     </div>
                     <div class="features__item u-border-bottom">
-                        <img src="../vendors/images/icon/247-support.webp" alt="استفاده از هاردهای پر سرعت SSD در هاست و سرور" class="features__img">
+                        <img src="../vendors/images/icon/247-support.webp" alt="ارائه SSL رایگان در خرید هاست لینوکس ارزان" class="features__img">
                         <h3 class="heading-tertiary">SSL رایگان</h3>
                         <p class="features__text">
                         از جمله ویژگی های اصلی هاست لینوکس میزبان فا، ارائه گواهینامه SSL رایگان می باشد. با امنیت بیشتری وب سایت خود را راه اندازی نمایید. با داشتن یک <a href="../hosting">هاست ارزان</a>، علاوه بر صرفه جویی در خدمات بهترین کیفیت و قدرت را کسب کنید.
@@ -277,7 +277,7 @@
                         <p class="features__text">برای آسایش خاطر شما، بعد از <a style="text-decoration:none;color:#183346;" href="https://mizbannet.com/">خرید هاست از میزبان نت</a>، می توانید از کارشناسان ما درخواست <a style="text-decoration:none;color:#183346;" href="https://mizbannet.com/hosting/wordpress_hosting">نصب رایگان وردپرس</a> روی هاست خود را داشته باشید</p>
                     </div>
                     <div class="features__item">
-                        <img src="../vendors/images/icon/upgrade.webp" alt="نصب آسان وب سایت با استفاده از خرید هاست از ما" class="features__img">
+                        <img src="../vendors/images/icon/upgrade.webp" alt="قابلیت ارتقا لحظه ای هر سرویس هاستینگ میزبان نت" class="features__img">
                         <h3 class="heading-tertiary">قابلیت ارتقا لحظه‌ای</h3>
                         <p class="features__text">اگر در هر لحظه نیاز به منابع هاست بیشتری داشتید، میتوانید سرویس خود را بصورت اتوماتیک، از طریق پنل کاربری به پلن بالاتر ارتقا (Upgrade) نمایید</p>
                     </div>
@@ -296,7 +296,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="استفاده از هاردهای ssd در هاست اشتراکی" class="box__img">
+                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="بک آپ گیری منظم اطلاعات" class="box__img">
                         </div>
                         <div class="box__bottom">
                             <h3>بک آپ گیری منظم</h3>
