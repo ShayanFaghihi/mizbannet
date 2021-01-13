@@ -122,7 +122,25 @@
             </div>
         </div>
     </section> <!--End of header section-->
+
     <main>
+        <!-- Domain Search -->
+        <section class="content-section u-bg-white u-padding-top-large">
+            <div class="container">
+                    <h2 class="heading-secondary u-margin-bottom-medium u-margin-bottom-medium u-text-align-center">جستجو و ثبت دامنه ir ارزان</h2>
+                            <!-- Domain Search Script -->
+                       
+                            <div id="custom-search-input">
+                                <input id="inputSearch" type="text" name="domain" placeholder="نام دامنه را برای جستجو وارد کنید" required>
+                                <button class="glyphicon-search"><i class="fas fa-search"></i></button>                         
+                                <button class="glyphicon-loader"><span></span></button>                         
+                            </div>
+                     
+                        <div id="livesearch" style="text-align:center;margin-top:1rem"></div>
+            </div> <!-- container and row -->
+        </section>
+
+        <!-- Content -->
         <section class="content-section u-bg-white u-padding-top-large">
             <div class="container row">
                 <div class="content">
@@ -132,7 +150,7 @@
                     </p>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/ir-domain.svg" alt="چگونه دامنه آی آر ارزان ثبت کنیم" width="200" title="ثبت دامنه آی آر">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
             <div class="container row">
@@ -147,7 +165,7 @@
                     <a href="https://client.mizbannet.com/cart.php?a=add&domain=register" class="btn btn-red" style="color:#fff">همین الان دامنه خود را ثبت کنید</a>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/iran-domain.svg" alt="چرا دامنه ملی بخریم" width="200" title="دامنه ir">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>
@@ -185,7 +203,7 @@
                     </ul>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/different-ir-tlds.svg" alt="انواع دامنه ir " width="200" title="انواع دامنه">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>  
@@ -230,5 +248,5 @@
             </div>
         </section> <!--End of FAQ Section-->
     </main>
-    
+    <script src="domain-check.js"></script>
     <?php include "footer.php"; ?>

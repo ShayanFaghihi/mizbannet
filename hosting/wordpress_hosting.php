@@ -122,7 +122,7 @@
     </section> <!--End of header section-->
 
     <main>
-       
+       <!-- Plans -->
         <section class="plans u-text-align-center" id="plans">
             <h2   h2 class="heading-secondary">هاست مناسب خود را انتخاب نمایید</h2>
             <p class="features__text u-margin-bottom-medium">با انتخاب سرویس های هاست وردپرس میزبان نت، با خیال راحت صاحب یک سایت قدرتمند با پهنای باند نامحدود شوید</p>
@@ -130,7 +130,7 @@
             <div class="container  row">
                 
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/first-plan.webp" alt="خرید پلن اول هاست وردپرس پرسرعت میزبان نت" class="plans__box--img">
+                    <img src="../vendors/images/icon/first-plan.webp" alt="خرید پلن اول هاست وردپرس پرسرعت میزبان نت" class="plans__box--img" title="پلن برنزی">
                     <h3 class="plans__box--title">برنزی</h3>
                     <p class="plans__box--description">خرید هاست پرسرعت وردپرس میزبان نت همراه با قالب رایگان</p>
                     <p class="plans__box--price"><strong> ۲۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
@@ -154,7 +154,7 @@
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=5" class="btn btn-info">خرید سرویس</a>
                 </div>
                 <div class="plans__box suggested">
-                    <img src="../vendors/images/icon/second-plan.webp" alt="خرید بهترین هاست برای وردپرس" class="plans__box--img">
+                    <img src="../vendors/images/icon/second-plan.webp" alt="خرید بهترین هاست برای وردپرس" class="plans__box--img" title="پلن نفره ای">
                     <h3 class="plans__box--title">نقره‌ای</h3>
                     <p class="plans__box--description">خرید هاست قدرتمند وردپرس با سرعت و پایداری بالا</p>
                     <p class="plans__box--price"><strong> ۴۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
@@ -178,7 +178,7 @@
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=6" class="btn btn-blue">خرید سرویس</a>
                 </div>
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/third-plan.webp" alt="پلن سوم خرید هاست مخصوص وردپرس" class="plans__box--img">
+                    <img src="../vendors/images/icon/third-plan.webp" alt="پلن سوم خرید هاست مخصوص وردپرس" class="plans__box--img" title="پلن طلایی">
                     <h3 class="plans__box--title">طلایی</h3>
                     <p class="plans__box--description">خرید بهترین هاست وردپرس برای میزبانی سایت های پربازدید شما</p>
                     <p class="plans__box--price"><strong> ۷۹,۹۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
@@ -219,11 +219,11 @@
                     <hr class="hr-small u-margin-bottom-small">
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/wordpress.svg" alt="هاست وردپرس چیست و مناسب چه افرادی است؟" width="300" title="هاست وردپرس">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
 
-            <div class="container row">
+            <div class="container row u-padding-top-large">
                 <div class="content">
                     <h3 class="heading-tertiary u-margin-bottom-medium">بهترین هاست برای وردپرس </h3>
                 
@@ -234,7 +234,7 @@
                     تفاوتی نمی کند قصد دارید یک وب سایت استاتیک نوشته شده با کدهای HTML و CSS را راه اندازی کنید، یا <a href="https://mizbannet.com/hosting/wordpress_hosting">سیستم مدیریت محتوایی مانند WordPress</a>، Joomla، یا Drupal را پیاده سازی کنید. به کمک هاست قدرتمند لینوکس میزبان نت بالافاصله بعد از خرید، از طریق کنترل پنل خود در سایت وارد سی پنل خود شده و استارت کسب و کار خود را بزنید. </p>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/shared-hosting-header.webp" alt="تصویر از هاست لینوکس به صرفه و ارزان قیمت" width="200" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/suitable-for-wordpress.svg" alt="بهترین هاست برای وردپرس از میزبان نت" width="300" title="هاست مناسب وردپرس">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>
@@ -248,12 +248,12 @@
             <div class="container">
                 <div class="row">
                     <div class="features__item u-border-left u-border-bottom">
-                        <img src="../vendors/images/icon/server-ssd-hard.webp" alt="پشتیبانی هاست وردپرس بصورت 24 ساعته " class="features__img">
+                        <img src="../vendors/images/icon/server-ssd-hard.webp" alt="استفاده از دیسک های قدرتمند در هاست وردپرس میزبان نت " class="features__img" title="دیسک قدرتمند">
                         <h3 class="heading-tertiary">استفاده از دیسک های قدرتمند</h3>
                         <p class="features__text">اطلاعات <a style="color:#c51e39;text-decoration:none;" href="https://mizbannet.com/hosting">هاست های میزبان نت</a> تحت تکنولوژی RAID بصورت Mirror در هاردهای متعدد ذخیره شدند، تا داده های میزبانی شده با اطمینان بالا حفظ شوند.</p>
                     </div>
                     <div class="features__item u-border-bottom">
-                        <img src="../vendors/images/icon/247-support.webp" alt="استفاده از هاردهای پر سرعت SSD در هاست و سرور وردپرس" class="features__img">
+                        <img src="../vendors/images/icon/247-support.webp" alt="پشتیبانی 24 ساعته" class="features__img" title="پشتیبانی 24 ساعته">
                         <h3 class="heading-tertiary">پشتیبانی 24 ساعته در 7 روز هفته بصورت اختصاصی</h3>
                         <p class="features__text">از آن جهت که مشتریان هاست وردپرس دارای سایت ها و اپلیکیشن های پربازدید هستند، برای تسریع در پشتیبانی به این هاست از پشتیبانی و پاسخ دهی لحظه ای ویژه استفاده می کنیم.</p>
                     </div>
@@ -261,12 +261,12 @@
                 </div>
                 <div class="row  u-margin-bottom-large">
                     <div class="features__item u-border-left">
-                        <img src="../vendors/images/icon/wp-install-for-free.webp" alt="نصب آسان وردپرس و وب سایت با استفاده از خرید هاست از ما" class="features__img">
+                        <img src="../vendors/images/icon/wp-install-for-free.webp" alt="نصب آسان وردپرس و وب سایت با استفاده از خرید هاست از ما" class="features__img" title="قالب رایگان وردپرس">
                         <h3 class="heading-tertiary">قالب رایگان وردپرس</h3>
                         <p class="features__text">با خرید سالانه هاست های وردپرس، یک قالب حرفه ای وردپرس به انتخاب شما بصورت هدیه دریافت خواهید کرد. تنظیم و فارسی سازی این قالب ها بصورت اختصاصی توسط تیم توسعه دهنده میزبان نت انجام شده است، تا به واسطه این قالب ها بتوانید یک سایت حرفه ای را دارا باشید.</p>
                     </div>
                     <div class="features__item">
-                        <img src="../vendors/images/icon/upgrade.webp" alt="قابلیت ارتقا لحظه ای هاست وردپرس" class="features__img">
+                        <img src="../vendors/images/icon/upgrade.webp" alt="قابلیت ارتقا لحظه ای هاست وردپرس" class="features__img" title="ارتقا لحظه ای">
                         <h3 class="heading-tertiary">قابلیت ارتقا لحظه‌ای</h3>
                         <p class="features__text">اگر در هر لحظه از زمان نیاز به استفاده از منابع بیشتری داشتید، می توانید به راحتی پلن خود را ارتقا داده و با خیال راحت سایت خود را پایدار نگاه دارید.</p>
                     </div>
@@ -275,7 +275,7 @@
 
             <div class="container row">
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/shared-hosting-header.webp" alt="تصویر از هاست لینوکس به صرفه و ارزان قیمت" width="200" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/unlimited-bandwidth.svg" alt="پهنای باند نامحدود در هاست وردپرس ارزان میزبان نت" width="200" title="پهنای باند نامحدود">
                 </div> <!-- image inside container -->
                 <div class="content">
                     <h3 class="heading-tertiary u-margin-bottom-medium">پهنای باند نامحدود در هاست وردپرس</h3>
@@ -290,7 +290,7 @@
                 <div class="features__boxes row">
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/control-panel.webp" alt="هاست وردپرس سی پنل (cPanel)" class="box__img">
+                            <img src="../vendors/images/icon/control-panel.webp" alt="هاست وردپرس سی پنل (cPanel)" class="box__img" title="cPanel">
                         </div>
                         <div class="box__bottom">
                             <h3>کنترل پنل cPanel</h3>
@@ -298,7 +298,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="هاست ارزان با پهنای باند نامحدود" class="box__img">
+                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="هاست ارزان با پهنای باند نامحدود" class="box__img" title="پهنای باند نامحدود">
                         </div>
                         <div class="box__bottom">
                             <h3>پهنای باند نامحدود</h3>
@@ -307,7 +307,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/security-hosting.webp" alt="استفاده از پردازنده و رم های پرقدرت در هاست وردپرس میزبان نت" class="box__img">
+                            <img src="../vendors/images/icon/security-hosting.webp" alt="استفاده از پردازنده و رم های پرقدرت در هاست وردپرس میزبان نت" class="box__img" title="سخت افزار قدرتمند">
                         </div>
                         <div class="box__bottom">
                             <h3>استفاده از پردازنده و حافظه رم های پرقدرت</h3>
@@ -315,7 +315,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/24-supporting.webp" alt="پشتیبانی 24 ساعته در 7 روز هفته" class="box__img">
+                            <img src="../vendors/images/icon/24-supporting.webp" alt="پشتیبانی 24 ساعته در 7 روز هفته" class="box__img" title="پشتیبانی 24 ساعته">
                         </div>
                         <div class="box__bottom">
                             <h3>پشتیبانی 24/7 اختصاصی</h3>

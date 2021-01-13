@@ -71,7 +71,7 @@
             <div class="container row">
                 
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/shared-plan.webp" alt="هاست سی پنل (cPanel) لینوکس میزبان نت" class="plans__box--img">
+                    <img src="../vendors/images/icon/shared-plan.webp" alt="هاست سی پنل (cPanel) لینوکس میزبان نت" class="plans__box--img" title="هاست ارزان لینوکس">
                     <h3 class="plans__box--title">هاست لینوکس ارزان</h3>
                     <h4 class="plans__box--description">هاست های پرقدرت لینوکس سی پنل، مناسب برای کسب و کارهای نوپا.</h4>
                     <p>شروع قیمت از</p>
@@ -85,7 +85,7 @@
                     <a href="linux_hosting" class="btn btn-info">اطلاعات بیشتر</a>
                 </div>
                 <div class="plans__box suggested">
-                    <img src="../vendors/images/icon/wordpress-plan.webp" alt="خرید هاست وردپرس سی پنل با قیمت مناسب" class="plans__box--img">
+                    <img src="../vendors/images/icon/wordpress-plan.webp" alt="خرید هاست وردپرس سی پنل با قیمت مناسب" class="plans__box--img" title="هاست ارزان وردپرس">
                     <h3 class="plans__box--title">هاست وردپرس ارزان</h3>
                     <h4 class="plans__box--description">هاست های قدرتمند وردپرس با پهنای باند نامحدود؛ مناسب سایت‌های پربازدید</h4>
                     <p>شروع قیمت از</p>
@@ -100,7 +100,7 @@
                     <a href="wordpress_hosting" class="btn btn-blue">اطلاعات بیشتر</a>
                 </div>
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/package.webp" alt="خرید هاست مناسب فروشگاه اینترنتی" class="plans__box--img">
+                    <img src="../vendors/images/icon/package.webp" alt="خرید هاست مناسب فروشگاه اینترنتی" class="plans__box--img" title="هاست فروشگاه اینترنتی">
                     <h3 class="plans__box--title">هاست مناسب فروشگاه اینترنتی</h3>
                     <h4 class="plans__box--description">هاست مناسب برای انواع فروشگاه و کسب و کارهای اینترنتی</h4>
                     <p>شروع قیمت از</p>
@@ -127,13 +127,13 @@
                    
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/linux-host-redirect.svg" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="200" title="هاست لینوکس میزبان نت">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
 
-            <div class="container row">
+            <div class="container row u-padding-top-large">
                 <div class="content__img u-text-align-center order-second">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/wordpress-host-redirect.svg" alt="هاست ارزان وردپرس میزبان نت" width="200" title="هاست وردپرس میزبان نت">
                 </div> <!-- image inside container -->
                  <div class="content order-first">
                     <h3 class="heading-secondary u-margin-bottom-medium">هاست وردپرس</h3>
@@ -143,7 +143,7 @@
                 </div><!-- content-->
             </div> <!-- container and row -->
 
-            <div class="container row">
+            <div class="container row u-padding-top-large">
                  <div class="content">
                     <h3 class="heading-secondary u-margin-bottom-medium">هاست فروشگاهی</h3>
                     <p class="u-margin-bottom-small content__text">
@@ -152,7 +152,7 @@
                     
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/vps-server.webp" alt="هاست فروشگاهی میزبان نت مناسب راه اندازی انواع فروشگاه اینترنتی" width="200" title="هاست فروشگاهی میزبان نت">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
 
@@ -190,13 +190,13 @@
                 </div><!-- content-->
 
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/Linux-box.webp" alt="هاست چیست" width="500" title="هاست">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
 
         </section>
 
-        <section class="features u-bg-grey u-text-align-center">
+        <section id="features" class="features u-bg-grey u-text-align-center">
             <h2 class="heading-secondary">ویژگی های هاست ارزان میزبان نت</h2>
             <p class="features__text u-margin-bottom-medium">خرید هاست، ثبت دامنه و میزبانی سایت های شما با بالاترین کیفیت</p>
             
@@ -204,7 +204,7 @@
                 <div class="features__boxes row">
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/high-speed.webp" alt="سرعت بالای سرورها" class="box__img">
+                            <img src="../vendors/images/icon/high-speed.webp" alt="سرعت بالای سرورها" class="box__img" title="سرعت بالا">
                         </div>
                         <div class="box__bottom">
                             <h3>سرعت بالا سرورها</h3>
@@ -212,7 +212,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/security-hosting.webp" alt="خرید هاست لینوکس سی پنل همراه با پشتیبانی و بک آپ" class="box__img">
+                            <img src="../vendors/images/icon/security-hosting.webp" alt="خرید هاست لینوکس سی پنل همراه با پشتیبانی و بک آپ" class="box__img" title="بک آپ گیری منظم">
                         </div>
                         <div class="box__bottom">
                             <h3>بکاپ اطلاعات شما بصورت منظم</h3>
@@ -220,7 +220,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/24-7-support.webp" alt="ارائه SSL رایگان در خرید هاست ارزان" class="box__img">
+                            <img src="../vendors/images/icon/24-7-support.webp" alt="ارائه SSL رایگان در خرید هاست ارزان" class="box__img" title="SSL رایگان">
                         </div>
                         <div class="box__bottom">
                             <h3>SSL رایگان</h3>
@@ -228,7 +228,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/24-supporting.webp" alt="گارانتی بازگشت وجه میزبان نت" class="box__img">
+                            <img src="../vendors/images/icon/24-supporting.webp" alt="گارانتی بازگشت وجه میزبان نت" class="box__img" title="گارانتی بازگشت وجه">
                         </div>
                         <div class="box__bottom">
                             <h3>گارانتی بازگشت وجه ۷ روزه</h3>
@@ -238,17 +238,17 @@
                 
                 <div class="row">
                     <div class="features__item">
-                        <img src="../vendors/images/icon/24-hour-support.webp" alt="پشتیبانی 24 ساعته در خرید هاست " class="features__img">
+                        <img src="../vendors/images/icon/24-hour-support.webp" alt="پشتیبانی 24 ساعته در خرید هاست " class="features__img" title="پشتیبانی 24 ساعته">
                         <h3 class="heading-tertiary">پشتیبانی ۲۴ ساعته خرید هاست</h3>
                         <p class="features__text">در همه لحظات همراه و پشتیبان شما هستیم. پشتیبانی ۲۴ ساعته در تمام روزهای هفته</p>
                     </div>
                     <div class="features__item u-bg-white">
-                        <img src="../vendors/images/icon/SSD-hard.webp" alt="استفاده از منابع سخت افزاری قدرتمند در سرورهای میزبان نت" class="features__img">
+                        <img src="../vendors/images/icon/SSD-hard.webp" alt="استفاده از منابع سخت افزاری قدرتمند در سرورهای میزبان نت" class="features__img" title="منابع سخت افزاری قوی">
                         <h3 class="heading-tertiary">استفاده از منابع سخت افزاری قدرتمند</h3>
                         <p class="features__text">پردازنده های قدرتمند چند هسته ای (۸ تا ۱۶ هسته)، حافظه رم بالای ۱۶ گیگ، دیسک های RAID-10</p>
                     </div>
                     <div class="features__item">
-                        <img src="../vendors/images/icon/easy-website-install.webp" alt="خرید ویژه هاست و دامنه ارزان از میزبان نت" class="features__img">
+                        <img src="../vendors/images/icon/easy-website-install.webp" alt="خرید ویژه هاست و دامنه ارزان از میزبان نت" class="features__img" title="هاست رایگان">
                         <h3 class="heading-tertiary"> خرید ویژه هاست و ثبت دامنه میزبان نت</h3>
                         <p class="features__text">امکانات ویژه خرید هاست همراه با دامنه و قالب وردپرس رایگان در خرید سالانه</p>
                     </div>

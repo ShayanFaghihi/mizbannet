@@ -1,4 +1,9 @@
 <?php include "header.php"; ?>
+<?php
+$message = ""; 
+include_once "domain-check.php";
+?>
+
 <title>خرید دامنه ارزان از نمایندگی رسمی ‐ میزبان نت</title>
 <meta name="description" content="دنبال خرید دامنه ارزان هستید؟ از میزبان نت ارزان تر از هرجا دامنه خود را خریداری و ثبت نمایید. نمایندگی رسمی خرید و ثبت دامین با بهترین و به صرفه ترین قیمت">
 <link rel="canonical" href="https://mizbannet.com/domain">
@@ -103,14 +108,22 @@
     </section> <!--End of header section-->
 
     <main class="u-padding-top-large">
-    <section class="content-section u-bg-white">
-            <div class="container row">
-                <div class="content">
-                    <h2 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">لیست قیمت و جستجوی دامنه</h2>
-
+        <section class="content-section u-bg-white">
+            <div class="container">
+                    <h2 class="heading-secondary u-margin-bottom-medium u-margin-bottom-medium u-text-align-center">قبل از هرکاری، اول دامنه دلخواهتو ثبت کن</h2>
+                            <!-- Domain Search Script -->
+                       
+                            <div id="custom-search-input">
+                                <input id="inputSearch" type="text" name="domain" placeholder="نام دامنه را برای جستجو وارد کنید" required>
+                                <button class="glyphicon-search"><i class="fas fa-search"></i></button>                         
+                                <button class="glyphicon-loader"><span></span></button>                         
+                            </div>
+                     
+                        <div id="livesearch" style="text-align:center;margin-top:1rem"></div>
             </div> <!-- container and row -->
         </section>
-        <section class="content-section u-bg-white">
+
+        <section class="content-section u-bg-white u-padding-top-large">
             <div class="container row">
                 <div class="content">
                     <h2 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">دامین چیست؟</h2>
@@ -123,7 +136,7 @@
                     </p>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/Domain.svg" alt="دامنه یا دامین چیست" width="300" title="دامنه">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>
@@ -149,7 +162,7 @@
                     <a href="https://client.mizbannet.com/cart.php?a=add&domain=register" class="btn btn-red" style="color:#fff">همین الان دامنه خود را ثبت کنید</a>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/suitable-domain.svg" alt="دامنه مناسب و ارزان چه ویژگی باید داشته باشد" width="1000" title="انتخاب دامنه">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>
@@ -213,7 +226,7 @@
         <section class="content-section u-bg-white u-padding-top-large">
             <div class="container row">
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/rebuy-domain.svg" alt="تمدید دامنه ارزان" width="300" title="تمدید دامنه">
                 </div> <!-- image inside container -->
                 <div class="content">
                     <h3 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">تمدید دامنه</h3>
@@ -226,7 +239,7 @@
         <section class="content-section u-bg-white">
             <div class="container row">
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/Linux-box.webp" alt="ثبت دامنه ir" width="500" title="ثبت دامنه ملی">
                 </div> <!-- image inside container -->
                 <div class="content">
                     <h3 class="heading-secondary u-margin-bottom-medium line--right position-relative u-margin-bottom-medium">ثبت دامنه ir.</h3>
@@ -247,7 +260,7 @@
                     </p>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/Domain.svg" alt="آموزش خرید دامنه از میزبان نت" width="500" title="آموزش خرید دامنه">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>  
@@ -292,5 +305,5 @@
             </div>
         </section> <!--End of FAQ Section-->
     </main>
-    
+    <script src="domain-check.js"></script>
     <?php include "footer.php"; ?>

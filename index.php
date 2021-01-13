@@ -110,7 +110,7 @@
                 <div class="section-cta__text">
                     
                     <h3 class="heading-tertiary ">همین امروز استارت راه اندازی وب سایت خودتونو بزنید</h3>
-                    <a href="/hosting" class="btn btn-red">همین حالا شروع کنید</a>
+                    <a href="./hosting" class="btn btn-red">همین حالا شروع کنید</a>
                     
                 </div>
                 <img src="vendors/images/buy-host-cta.webp" alt="شرکت فروش هاست و دامنه با قیمت مناسب" class="section-cta__img">

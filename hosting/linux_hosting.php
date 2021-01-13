@@ -127,14 +127,14 @@
         </div>
     </section> <!--End of header section-->
     <main>
-    
+      <!-- Plans -->
         <section class="plans u-text-align-center" id="plans">
             <h2 class="heading-secondary">هاست مناسب خود را انتخاب نمایید</h2>
             <p class="features__text u-margin-bottom-medium">با انتخاب سرویس های هاست لینوکس میزبان نت، در کم ترین زمان و با قدرت سایت خود را راه اندازی کنید</p>
            
             <div class="container  row">
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/first-plan.webp" alt="پلن اقتصادی هاست اشتراکی لینوکس میزبان نت" class="plans__box--img">
+                    <img src="../vendors/images/icon/first-plan.webp" alt="پلن اقتصادی هاست اشتراکی لینوکس میزبان نت" class="plans__box--img" title="پلن اقتصادی">
                     <h3 class="plans__box--title">اقتصادی</h3>
                     <p class="plans__box--description">هاست لینوکس مناسب برای شروع یک کسب و کار اینترنتی کوچک</p>
                     <p class="plans__box--price"><strong> ۱۲,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
@@ -155,7 +155,7 @@
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=1" class="btn btn-info">خرید سرویس</a>
                 </div>
                 <div class="plans__box suggested">
-                    <img src="../vendors/images/icon/second-plan.webp" alt="پلن بیزینسی هاست لینوکس میزبان نت" class="plans__box--img">
+                    <img src="../vendors/images/icon/second-plan.webp" alt="پلن بیزینسی هاست لینوکس میزبان نت" class="plans__box--img" title="پلن بیزینسی">
                     <h3 class="plans__box--title">بیزینسی</h3>
                     <p class="plans__box--description">پیشنهاد میزبان نت برای داشتن یک هاست قدرتمند</p>
                     <p class="plans__box--price"><strong> ۱۶,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
@@ -175,7 +175,7 @@
                     <a href="https://client.mizbannet.com/cart.php?a=add&pid=3" class="btn btn-blue">خرید سرویس</a>
                 </div>
                 <div class="plans__box">
-                    <img src="../vendors/images/icon/third-plan.webp" alt="پلن بیزینسی پلاس میزبان نت" class="plans__box--img">
+                    <img src="../vendors/images/icon/third-plan.webp" alt="پلن بیزینسی پلاس میزبان نت" class="plans__box--img" title="پلن بیزینسی پلاس">
                     <h3 class="plans__box--title">بیزینسی پلاس</h3>
                     <p class="plans__box--description">هاست پرقدرت مناسب برای راه اندازی انواع اسکریپت های مختلف</p>
                     <p class="plans__box--price"><strong> ۲۸,۰۰۰ <span> تومان </span></strong><sub> \ ماهانه </sub></p>
@@ -212,11 +212,11 @@
                     <hr class="hr-small u-margin-bottom-small">
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/Linux-box.webp" alt="هاست لینوکس چیست و مناسب چه افرادی می باشد" width="500" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/linux.svg" alt="هاست لینوکس چیست" width="500" title="هاست لینوکس میزبان نت">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
 
-            <div class="container row">
+            <div class="container row u-padding-top-large">
                 <div class="content">
                     <h3 class="heading-tertiary u-margin-bottom-medium">هاست لینوکس با cPanel</h3>
                     <p class="u-margin-bottom-small content__text">
@@ -226,7 +226,7 @@
                 </div><!-- content-->
             </div> <!-- container and row -->
 
-            <div class="container row">
+            <div class="container row u-padding-top-large">
                 <div class="content">
                     <h3 class="heading-tertiary u-margin-bottom-medium">هاست لینوکس مناسب کیست؟</h3>
                 
@@ -238,7 +238,7 @@
                     تفاوتی نمی کند قصد دارید یک وب سایت استاتیک نوشته شده با کدهای HTML و CSS را راه اندازی کنید، یا <a href="https://mizbannet.com/hosting/wordpress_hosting">سیستم مدیریت محتوایی مانند WordPress</a>، Joomla، یا Drupal را پیاده سازی کنید. به کمک هاست قدرتمند لینوکس میزبان نت بالافاصله بعد از خرید، از طریق کنترل پنل خود در سایت وارد سی پنل خود شده و استارت کسب و کار خود را بزنید. </p>
                 </div><!-- content-->
                 <div class="content__img u-text-align-center">
-                    <img src="../vendors/images/shared-hosting-header.webp" alt="تصویر از هاست لینوکس به صرفه و ارزان قیمت" width="200" title="هاست لینوکس میزبان نت">
+                    <img src="../vendors/images/shared-hosting-header.webp" alt="تصویر از هاست لینوکس به صرفه و ارزان قیمت" width="200" title="هاست لینوکس مناسب کیست؟">
                 </div> <!-- image inside container -->
             </div> <!-- container and row -->
         </section>
@@ -257,27 +257,27 @@
             <div class="container">
                 <div class="row">
                     <div class="features__item u-border-left u-border-bottom">
-                        <img src="../vendors/images/icon/server-ssd-hard.webp" alt="استفاده از سخت افزارهای قدرتمند در هاست لینوکس" class="features__img">
+                        <img src="../vendors/images/icon/server-ssd-hard.webp" alt="استفاده از سخت افزارهای قدرتمند در هاست لینوکس" class="features__img" title="سخت افزار قدرتمند">
                         <h3 class="heading-tertiary"> استفاده از سخت افزار قدرتمند</h3>
                         <p class="features__text">هاردهای SAS با قدرت پردازش و انتقال سریع فایل ها، پردازنده های چند هسته ای (تا 16 هسته)، حافظه رم بالای 16 گیگ همراه با آپتایم بالای ۹۹,۹%</p>
                     </div>
                     <div class="features__item u-border-bottom">
-                        <img src="../vendors/images/icon/247-support.webp" alt="ارائه SSL رایگان در خرید هاست لینوکس ارزان" class="features__img">
+                        <img src="../vendors/images/icon/247-support.webp" alt="ارائه SSL رایگان در خرید هاست لینوکس ارزان" class="features__img" title="SSL رایگان">
                         <h3 class="heading-tertiary">SSL رایگان</h3>
                         <p class="features__text">
                         از جمله ویژگی های اصلی هاست لینوکس میزبان فا، ارائه گواهینامه SSL رایگان می باشد. با امنیت بیشتری وب سایت خود را راه اندازی نمایید. با داشتن یک <a href="../hosting">هاست ارزان</a>، علاوه بر صرفه جویی در خدمات بهترین کیفیت و قدرت را کسب کنید.
-                             </p>
+                        </p>
                     </div>
 
                 </div>
                 <div class="row">
                     <div class="features__item u-border-left">
-                        <img src="../vendors/images/icon/wp-install-for-free.webp" alt="نصب آسان وب سایت با استفاده از خرید هاست از ما" class="features__img">
+                        <img src="../vendors/images/icon/wp-install-for-free.webp" alt="نصب آسان وب سایت با استفاده از خرید هاست از ما" class="features__img" title="نصب رایگان وردپرس">
                         <h3 class="heading-tertiary">نصب رایگان وردپرس</h3>
                         <p class="features__text">برای آسایش خاطر شما، بعد از <a style="text-decoration:none;color:#183346;" href="https://mizbannet.com/">خرید هاست از میزبان نت</a>، می توانید از کارشناسان ما درخواست <a style="text-decoration:none;color:#183346;" href="https://mizbannet.com/hosting/wordpress_hosting">نصب رایگان وردپرس</a> روی هاست خود را داشته باشید</p>
                     </div>
                     <div class="features__item">
-                        <img src="../vendors/images/icon/upgrade.webp" alt="قابلیت ارتقا لحظه ای هر سرویس هاستینگ میزبان نت" class="features__img">
+                        <img src="../vendors/images/icon/upgrade.webp" alt="قابلیت ارتقا لحظه ای هر سرویس هاستینگ میزبان نت" class="features__img" title="قابلیت ارتقا لحظه ای">
                         <h3 class="heading-tertiary">قابلیت ارتقا لحظه‌ای</h3>
                         <p class="features__text">اگر در هر لحظه نیاز به منابع هاست بیشتری داشتید، میتوانید سرویس خود را بصورت اتوماتیک، از طریق پنل کاربری به پلن بالاتر ارتقا (Upgrade) نمایید</p>
                     </div>
@@ -288,7 +288,7 @@
                 <div class="features__boxes row">
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/control-panel.webp" alt="کنترل پنل سی پنل هاست لینوکس" class="box__img">
+                            <img src="../vendors/images/icon/control-panel.webp" alt="کنترل پنل سی پنل هاست لینوکس" class="box__img" title="cPanel">
                         </div>
                         <div class="box__bottom">
                             <h3>کنترل پنل cPanel</h3>
@@ -296,7 +296,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="بک آپ گیری منظم اطلاعات" class="box__img">
+                            <img src="../vendors/images/icon/shared-ssd-hard.webp" alt="بک آپ گیری منظم اطلاعات" class="box__img" title="بک آپ گیری منظم">
                         </div>
                         <div class="box__bottom">
                             <h3>بک آپ گیری منظم</h3>
@@ -304,7 +304,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/security-hosting.webp" alt="امنیت بالای هاست ایران" class="box__img">
+                            <img src="../vendors/images/icon/security-hosting.webp" alt="امنیت بالای هاست ایران" class="box__img" title="امنیت بالا">
                         </div>
                         <div class="box__bottom">
                             <h3>امنیت تضمین شده</h3>
@@ -312,7 +312,7 @@
                     </div>
                     <div class="box">
                         <div class="box__top">
-                            <img src="../vendors/images/icon/24-supporting.webp" alt="پشتیبانی 24 ساعته در 7 روز هفته" class="box__img">
+                            <img src="../vendors/images/icon/24-supporting.webp" alt="پشتیبانی 24 ساعته در 7 روز هفته" class="box__img" title="پشتیبانی 24 ساعته">
                         </div>
                         <div class="box__bottom">
                             <h3>پشتیبانی 24/7</h3>
